@@ -17,7 +17,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "latest",
     "husky": "^2.2.0",
-    "lint-staged": "^9.2.2",
+    "lint-staged": "^15.0.0",
     "prettier": "1.18.0",
     "remark-cli": "^8.0.0",
     "remark-license": "^5.0.0",
